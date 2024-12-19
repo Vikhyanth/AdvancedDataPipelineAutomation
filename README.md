@@ -1,10 +1,10 @@
-Stock Market Dashboard 
+MarketStack Dashboard 
 -------------------------------
 
 **Project Overview**
 --------------------
 
-This project is an interactive **Stock Market Dashboard** built using **Streamlit**. It fetches stock market data from the **Marketstack API**, processes it, and provides visual insights such as closing prices, trading volumes, and more. The dashboard allows users to analyze stock performance over time and supports customization through user inputs.
+This project is an interactive **Stock Market Dashboard** built using **Streamlit**. It fetches stock market data from the **Marketstack API**, processes it, and provides visual insights such as closing prices, trading volumes, etc. The dashboard allows users to analyze stock performance over time and supports customization through user inputs.
 
 **Features**
 ------------
