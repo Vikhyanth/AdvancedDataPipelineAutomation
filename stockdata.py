@@ -3,7 +3,7 @@ import requests
 
 import requests
 
-url = "https://api.marketstack.com/v1/eod?access_key=91ae6b6717bce0ae3c9c98e05b1da3cc"
+url = "https://api.marketstack.com/v1/eod?access_key=your_access_code"
 
 querystring = {"symbols":"AAPL"}
 
