@@ -1,4 +1,4 @@
-Stock Market Dashboard - README
+Stock Market Dashboard 
 -------------------------------
 
 **Project Overview**
